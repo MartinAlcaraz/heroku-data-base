@@ -143,14 +143,6 @@
       "categoria": "diversos",
       "descripcion": "poiwier po sadf [po sadf",
       "img": "https://res.cloudinary.com/imagenes-cloudinary/image/upload/v1651928218/wxveirtoaxtzcgeygoc9.png"
-    },
-    {
-      "nombre": "asdf",
-      "precio": "89.89",
-      "id": "cade2ba3-e30d-40df-9fd1-0542495cfefc",
-      "categoria": "starwars",
-      "descripcion": "werwqerdasfasdf",
-      "img": "https://res.cloudinary.com/imagenes-cloudinary/image/upload/v1652012309/szhy8ewtwhxzwbgwuey1.png"
     }
   ]
 }
